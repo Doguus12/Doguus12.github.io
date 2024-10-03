@@ -18,3 +18,13 @@ Selected a local path on my computer to store the repository.
 Clicked 'Clone' to download the repository to my local machine.
 - 🔭 I’m currently working on my assignments.
 - 🌱 I’m currently learning and improving my computer skills with this class.
+
+
+
+# About Me
+ This is Dogus Ali Metin and I am from Turkey, Istanbul. I've been in the States for almost three years. I'm studying Computer programming and development.
+## My Interests
+I do like playing soccer; this is my favorite sport. I've been playing since 6 years old. Also, I am trying to go to the gym four days per week. But this semester I am pretty busy I usually stay home and do my assignments.
+## Websites I Recommend
+- [X] (https://X.com) - I always check X which is the old name called Twitter. Daily news, something interesting news about the world, and of course follow the soccer news.
+- [Youtube](https://www.youtube.com/) - We can find any type of video on YouTube. It's the pretty old application or website but it is still cool!
