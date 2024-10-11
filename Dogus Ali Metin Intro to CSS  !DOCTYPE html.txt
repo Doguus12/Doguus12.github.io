@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>My Introduction</title>
+     <style>
+
+          body {
+              background-color: #E6F3FF; /* Light blue background */
+
+          }
+          h1 {
+              color: #FF0000; /* red heading color */
+          }
+          p {
+              color: #008000; /* green paragraph color */
+          }
+      </style>
+</head>
+<body>
+    <h1>My name is Dogus Ali Metin</h1>
+    <p>I am a computer programming and development student. I really enjoy coding and trying to understand how to solve problems.</p>
+    <p>In my free time, I like to go to the gym and play PS5.</p>
+    <p> I am excited to learn more about computer programming, development, and CSS styling!</p>
+</body>
+</html>
